@@ -1,7 +1,9 @@
 package com.tnsif.scannerclass;
 
 public class Taxcalculation {
+	
 	public void calculatetax(Person p) {
+
 		if(p.getIncome()<1600) {
 			p.setTax(0);
 		}
@@ -15,5 +17,6 @@ public class Taxcalculation {
 
 	}
 }
+
 
 

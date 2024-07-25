@@ -9,7 +9,7 @@ public class Customer {
 	public Customer() {
 		
 	}
-// parameter con
+// parameter constructor
 	public Customer(String cname, int cid, String caddress) {
 	
 		this.cname = cname;

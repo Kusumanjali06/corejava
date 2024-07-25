@@ -8,7 +8,7 @@ public class Father {
 		
 		// method
 		void drinking () {
-			System.out.println("coffe");
+			System.out.println("coffee");
 		}
 
 	}
